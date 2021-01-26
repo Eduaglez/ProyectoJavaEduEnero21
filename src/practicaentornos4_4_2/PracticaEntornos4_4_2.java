@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author admin
+// * @eduaglez admin
  */
 public class PracticaEntornos4_4_2 {
 
